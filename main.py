@@ -8,7 +8,7 @@ import robotbit
 import sonar
 
 # setup
-basic.show_icon(IconNames.HEART)
+display.show(Image.HEART)
 
 # loop forever
 while True:
